@@ -1,0 +1,11 @@
+Message,Predicted Label,Confidence
+Congratulations! You have won a free lottery prize. Call now!,spam,0.8901
+"Hey, are we meeting for lunch today?",ham,0.9971
+URGENT! You have won a cash prize. Claim it now.,spam,0.977
+Can you send me the notes from today's class?,ham,0.9672
+Free entry in a weekly competition. Text WIN to 80086.,spam,0.8543
+I will reach home by 7 pm.,ham,0.9715
+You have been selected for a special reward. Claim it now.,spam,0.8376
+Please call me when you are free.,ham,0.6464
+Win a brand new phone by participating in our contest!,ham,0.5597
+Don't forget to bring your assignment tomorrow.,ham,0.988
